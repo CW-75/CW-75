@@ -57,21 +57,17 @@
 
 ### Badges
 
+<div align="center">
+
 <a
 href="http://www.github.com/CW-75">
 <img src="https://github-readme-stats.vercel.app/api?username=CW-75&show_icons=true&count_private=true&title_color=44ffff&text_color=dddddd&icon_color=44ffff&theme=transparent&hide_border=true"
 media="(prefers-color-scheme: dark)"
 alt="CW-75's GitHub stats" />
 </a>
-<a
-href="http://www.github.com/CW-75"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=CW-75&stroke=44ffff&&theme=transparent&ring=44ffff&&fire=44ffff&&currStreakNum=dddddd&currStreakLabel=44ffff&&sideNums=dddddd&sideLabels=dddddd&dates=dddddd&hide_border=true" /></a><a
-href="http://www.github.com/CW-75"><img src="https://activity-graph.herokuapp.com/graph?username=CW-75&bg_color=1c1917&color=dddddd&line=14b8a6&point=dddddd&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CW-75&bg_color=transparent&color=d1d1d1&line=1b7b93&point=66ffe0&area=true&hide_border=true&area_color=1b7b93)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![CW75*Activity graphs](https://github-readme-activity-graph.vercel.app/graph?username=CW-75&bg_color=transparent&color=d1d1d1&line=1b7b93&point=66ffe0&area=true&hide_border=true&area_color=1b7b93)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![CW-75 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CW-75&title_color=14b8a6&text_color=dddddd&icon_color=14b8a6&theme=transparent&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&card_width=900)](https://github.com/CW-75)
-<a href="https://github.com/CW-75" align="left"><img src="[](https://github-readme-stats.vercel.app/api/top-langs/?username=CW-75&langs_count=10&title_color=14b8a6&text_color=dddddd&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%25Languages)"
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/CW-75"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
