@@ -49,14 +49,21 @@
 <div align="center">
 
 <a
-href="http://www.github.com/CW-75">
-<img src="https://github-readme-stats.vercel.app/api?username=CW-75&show_icons=true&count_private=true&title_color=44ffff&text_color=dddddd&icon_color=44ffff&theme=transparent&hide_border=true"
+href="https://www.github.com/CW-75">
+<img src="https://github-readme-stats.vercel.app/api?username=CW-75&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&show=reviews,prs_merged,prs_merged_percentage"
 media="(prefers-color-scheme: dark)"
-alt="CW-75's GitHub stats" />
+alt="CW-75's GitHub stats" 
+style="border-radius: 1.1rem; width: 80%"/>
 </a>
 
-[![CW75*Activity graphs](https://github-readme-activity-graph.vercel.app/graph?username=CW-75&bg_color=transparent&color=d1d1d1&line=1b7b93&point=66ffe0&area=true&hide_border=true&area_color=1b7b93)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![CW-75 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CW-75&title_color=14b8a6&text_color=dddddd&icon_color=14b8a6&theme=transparent&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&card_width=900)](https://github.com/CW-75)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CW-75&theme=vue-dark&hide_border=true&border_radius=20&card_width=700&card_height=250&fire=00D4EB" alt="GitHub Streak" style="width: 80%;"/></a>
+
+<a href="https://www.github.com/CW-75">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CW-75&theme=vue&area=true&hide_border=true"
+alt="CW-75's Github Contributions" style="border-radius: 0.9rem;" />
+</a>
+
+[![CW-75 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CW-75&title_color=14b8a6&text_color=dddddd&icon_color=14b8a6&theme=vue-dark&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&card_width=900)](https://github.com/CW-75)
 
 
 </div>
