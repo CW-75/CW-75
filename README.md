@@ -56,7 +56,7 @@ alt="CW-75's GitHub stats"
 style="border-radius: 1.1rem; width: 80%"/>
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CW-75&theme=vue-dark&hide_border=true&border_radius=20&card_width=700&card_height=250&fire=00D4EB" alt="GitHub Streak" style="width: 80%;"/></a>
+<a href="https://www.github.com/CW-75"><img src="https://streak-stats.demolab.com?user=CW-75&theme=vue-dark&hide_border=true&border_radius=20&card_width=700&card_height=250&fire=00D4EB" alt="GitHub CW-75's Streak" style="width: 80%;"/></a>
 
 <a href="https://www.github.com/CW-75">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CW-75&theme=vue&area=true&hide_border=true"
