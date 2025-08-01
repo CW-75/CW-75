@@ -9,7 +9,7 @@
 
 ### Firmware Development
 
-- I gave support in [Mesh4all org](https://github.com/Mesh4all).
+- I brought support in [Mesh4all org](https://github.com/Mesh4all).
 
 
 #### Skills
@@ -53,7 +53,7 @@ href="https://www.github.com/CW-75">
 <img src="https://github-readme-stats.vercel.app/api?username=CW-75&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&width=410"
 media="(prefers-color-scheme: dark)"
 alt="CW-75's GitHub stats" 
-style="border-radius: 1.3rem; max-width: 60%">
+style="border-radius: 1.3rem; max-width: 60%"
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CW-75&title_color=14b8a6&text_color=dddddd&icon_color=14b8a6&theme=vue-dark&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&card_width=410" style="border-radius: 1.3rem; max-width:60%; max-height: 26vh">
